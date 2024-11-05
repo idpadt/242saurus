@@ -21,3 +21,22 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+idpadt:
+  name: I Dewa Putu Aditya Rahman
+  title: CS Student
+  url: https://github.com/idpadt
+  image_url: https://github.com/idpadt.png
+  page: true
+  socials:
+    github: idpadt
+
+papaChick:
+  name: Christian Raphael Heryanto
+  title: CS Student
+  url: https://github.com/papaChick
+  image_url: https//github.com/papaChick.png
+  page: true
+  socials:
+    github: papaChick
+
